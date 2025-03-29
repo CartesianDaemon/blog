@@ -1,2 +1,1 @@
-# blog
-Technical thoughts
+# Cartesian Heights: Technical Thoughts
