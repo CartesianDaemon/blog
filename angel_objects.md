@@ -1,5 +1,10 @@
 # Angel Objects
 
+TODO: Lead in with a motivating example with multiple angels, some global, some not?
+TODO: Boil down examples to more obvious ones. (Maybe? If that's sufficiently motivating?)
+TODO: Include version with explicit angel parameter. Maybe even without decorators?
+TODO: Mention where I got with implementation?
+
 ## Motivating problem
 
 Sometimes one object is needed by many functions in the call stack and you need to decide between making it a global, or adding an identical parameter to almost every function in the hierarchy. I've seen this in both high level and low levels areas of programming including:
